@@ -1,0 +1,2 @@
+Hi this is Angie.
+This is my very first lesson on using Git.
